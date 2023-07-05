@@ -1,0 +1,100 @@
+DO NOT
+MATCH
+No error
+Job ID :1
+IC : 10
+IR : H
+TTC : 13
+LLC : 2
+
+
+*
+**
+***
+**
+Line Limit Exceeded
+Job ID :202
+IC : 15
+IR : PD60
+TTC : 24
+LLC : 4
+
+
+Invalid Page Fault
+Job ID :1
+IC : 5
+IR : LR30
+TTC : 8
+LLC : 0
+
+
+TYC
+TYD
+No error
+Job ID :7
+IC : 6
+IR : H
+TTC : 9
+LLC : 2
+
+
+Time Limit Exceeded
+Job ID :1
+IC : 1
+IR : PD10
+TTC : 3
+LLC : 0
+
+
+ABCD
+Out of Data
+Job ID :1
+IC : 3
+IR : GD20
+TTC : 3
+LLC : 1
+
+
+Operation Code Error
+Job ID :1
+IC : 1
+IR : LD10
+TTC : 1
+LLC : 0
+
+
+TYC
+Time Limit Exceeded
+Job ID :1
+IC : 3
+IR : LS20
+TTC : 6
+LLC : 1
+Operation Code Error
+Job ID :1
+IC : 3
+IR : LS20
+TTC : 6
+LLC : 1
+
+
+Line Limit Exceeded
+Job ID :1
+IC : 2
+IR : PD10
+TTC : 3
+LLC : 0
+
+
+Line Limit Exceeded
+Job ID :1000
+IC : 2
+IR : PDk0
+TTC : 2
+LLC : 0
+Operand Error
+Job ID :1000
+IC : 2
+IR : PDk0
+TTC : 2
+LLC : 0
